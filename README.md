@@ -3,6 +3,7 @@ landing-page-starbucks
 
 ## Descrição
 Landing page com design da Starbucks feito em html5/css3
+
 Pontos interessantes:
 - site responsivo
 - construido com CSS Grid
